@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Feb 28 08:09:05 2017
-read the detalis for explanation
-@author: Sujay N
+read the detalis.txt file for explanation
+read the applications.txt file for applications of this program
 """
 
 import time
